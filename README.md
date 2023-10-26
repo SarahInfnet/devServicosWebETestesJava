@@ -1,0 +1,3 @@
+Este projeto é um protótipo extremamente simplificado de uma rede social. Há apenas um usuário cadastrado, cujo nome de usuário e senha são ambos **"admin"**. 
+
+O objetivo deste projeto é explorar a utilização do IntelliJ e suas ferramentas (por exemplo, o debugger), juntamente com o gerenciador de projetos Maven (especialmente a utilização de *goals*) e bibliotecas tais como o LOMBOK. Sendo assim, as únicas exigências para o projeto eram que houvesse ao menos 3 *packages*, cada um com alguma classe. Além disso, as classes de cada *package* deveriam utilizar métodos de classes de outros *packages*.
